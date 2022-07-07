@@ -1,0 +1,15 @@
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\bin\Debug\net6.0\Chords.exe
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\bin\Debug\net6.0\Chords.deps.json
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\bin\Debug\net6.0\Chords.runtimeconfig.json
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\bin\Debug\net6.0\Chords.dll
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\bin\Debug\net6.0\Chords.pdb
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.dll
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\refint\Chords.dll
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.pdb
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\Chords.genruntimeconfig.cache
+C:\Users\valer\OneDrive\Документы\Учеба\2 курс\Практика\Chords\Chords\obj\Debug\net6.0\ref\Chords.dll
